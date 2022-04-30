@@ -1,0 +1,37 @@
+[
+  {
+    "text": [
+      "Dose title objects exist in this page?",
+      "Are there any title exist?"
+    ],
+    "nodes": [
+      {
+        "inputs": [],
+        "type": "all_scene"
+      },
+      {
+        "side_inputs": [
+          "<E>"
+        ],
+        "inputs": [
+          0
+        ],
+        "type": "filter_element"
+      },
+      {
+        "inputs": [
+          1
+        ],
+        "type": "exist"
+      }
+    ],
+    "params": [
+      {
+        "type": "Element",
+        "name": "<E>"
+      }
+    ],
+    "constraints": [],
+    "attr_keys": {"_mask": false, "$Element": ["title"]}
+  }
+]

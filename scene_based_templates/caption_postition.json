@@ -1,0 +1,37 @@
+[
+  {
+    "text": [
+      "Where is the caption of the <E> located at?",
+      "The caption is on which side of the <E>?"
+    ],
+    "nodes": [
+      {
+        "inputs": [],
+        "type": "all_scene"
+      },
+      {
+        "side_inputs": [
+          "<E>"
+        ],
+        "inputs": [
+          0
+        ],
+        "type": "filter_unique"
+      },
+      {
+        "inputs": [
+          1
+        ],
+        "type": "caption_position"
+      }
+    ],
+    "params": [
+      {
+        "type": "Element",
+        "name": "<E>"
+      }
+    ],
+    "constraints": [],
+    "attr_keys": {"_mask": false, "category_id": ["table", "figure"]}
+  }
+]

@@ -1,0 +1,74 @@
+[
+
+  {
+    "text": [
+      "How many <E1> objects are located at the <R> side of <E2>?",
+      "For <E2>, how many <E1> objects are located at its <R> side?"
+    ],
+    "nodes": [
+      {
+        "inputs": [],
+        "type": "all_scene"
+      },
+      {
+        "side_inputs": [
+          "<E2>"
+        ],
+        "inputs": [
+          0
+        ],
+        "type": "filter_unique"
+      },
+      {
+        "side_inputs": [
+          "<R>"
+        ],
+        "inputs": [
+          1
+        ],
+        "type": "query_position"
+      },
+      {
+        "inputs": [
+          2
+        ],
+        "side_inputs": [
+          "<E1>"
+        ],
+        "type": "filter_category"
+      },
+      {
+        "inputs": [
+          3
+        ],
+        "type": "count_larger_zero"
+      }
+    ],
+    "params": [
+      {
+        "type": "Relation",
+        "name": "<R>"
+      },
+      {
+        "type": "SrcElement",
+        "name": "<E1>"
+      },
+      {
+        "type": "Element",
+        "name": "<E2>"
+      }
+    ],
+    "constraints": [],
+    "attr_keys": {
+      "_mask": false,
+      "$Relation": [
+        "top",
+        "bottom",
+        "left",
+        "right"
+      ],
+      "$SrcElement": ["text", "title", "table", "figure"],
+      "category_id": ["table", "figure"]
+    }
+  }
+]
