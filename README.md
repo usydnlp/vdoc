@@ -5,7 +5,7 @@ This repository contains code for the paper [V-Doc : Visual questions answers wi
   <b>Ding, Y.*, Huang, Z.*, Wang, R., Zhang, Y., Chen, X., Ma, Y., Chung, H., & Han, C. (CVPR 2022) <br/><a href="https://arxiv.org/pdf/2205.13724.pdf">V-Doc : Visual questions answers with Documents</a><br/></b></span>
 </h4>
 <p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://github.com/usydnlp/vdoc/blob/main/images/system_architecture.png)">
+  <img src="[http://www.fillmurray.com/460/300](https://github.com/usydnlp/vdoc/blob/main/images/system_architecture.png)">
 </p>
 
 
