@@ -6,9 +6,9 @@ This repository contains code for the paper [V-Doc : Visual questions answers wi
 </h4>
 
 
-
-<img align="center" src="https://github.com/usydnlp/vdoc/blob/main/images/system_architecture.png">
-
+<p align="center">
+  <img src="https://github.com/usydnlp/vdoc/blob/main/images/system_architecture.png">
+</p>
 
 ### Dataset Generation
 To run the scene based question generation code, we need to fetch the JSON files from the source.  
