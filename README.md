@@ -4,8 +4,9 @@ This repository contains code for the paper [V-Doc : Visual questions answers wi
 <h4 align="center">
   <b>Ding, Y.*, Huang, Z.*, Wang, R., Zhang, Y., Chen, X., Ma, Y., Chung, H., & Han, C. (CVPR 2022) <br/><a href="https://arxiv.org/pdf/2205.13724.pdf">V-Doc : Visual questions answers with Documents</a><br/></b></span>
 </h4>
-
+<h4 align="center">
 ![image](https://github.com/usydnlp/vdoc/blob/main/images/system_architecture.png)
+</h4>
 
 ### Dataset Generation
 To run the scene based question generation code, we need to fetch the JSON files from the source.  
