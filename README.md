@@ -1,5 +1,7 @@
 # V-Doc : Visual questions answers with Documents
+This repository contains code for paper [V-Doc : Visual questions answers with Documents](https://arxiv.org/pdf/2205.13724.pdf)
 
+### Dataset Generation
 To run the scene based question generation code, we need to fetch the JSON files from the source.  
 
 #### Extract OCR information
