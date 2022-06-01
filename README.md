@@ -7,7 +7,7 @@ This repository contains code for the paper [V-Doc : Visual questions answers wi
 
 
 
-<img align="left" width="100" height="100" src="https://github.com/usydnlp/vdoc/blob/main/images/system_architecture.png">
+<img align="center" src="https://github.com/usydnlp/vdoc/blob/main/images/system_architecture.png">
 
 
 ### Dataset Generation
