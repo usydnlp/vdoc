@@ -9,7 +9,7 @@ This repository contains code for the paper [V-Doc : Visual questions answers wi
   <img src="https://github.com/usydnlp/vdoc/blob/main/images/system_architecture.png">
 </p>
 
-### Dataset for training
+### Dataset in Dataset Storage Module
 
 The dataset we used to trained the model is provided in following links:
 
