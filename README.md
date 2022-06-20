@@ -14,9 +14,9 @@ This repository contains code for the paper [V-Doc : Visual questions answers wi
 The dataset we used to trained the model is provided in following links:
 
 
-Dataset for training Mac-Network: https://drive.google.com/drive/folders/1YMuctGPJbsy45Iz23ygcN1VGHWQp3aaU?ths=true
+PubVQA Dataset for training Mac-Network: https://drive.google.com/drive/folders/1YMuctGPJbsy45Iz23ygcN1VGHWQp3aaU?ths=true
 
-Dataset for training LayoutLMv2(FUNSD): https://drive.google.com/file/d/1Ev_sLTx3U9nAr2TGgUT5BXB1rpfLMlcq/view?usp=sharing
+Dataset for training LayoutLMv2(FUNSD-QA): https://drive.google.com/file/d/1Ev_sLTx3U9nAr2TGgUT5BXB1rpfLMlcq/view?usp=sharing
 
 ### Dataset Generation
 To run the scene based question generation code, we need to fetch the JSON files from the source.  
