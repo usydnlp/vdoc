@@ -1,5 +1,5 @@
 # V-Doc : Visual questions answers with Documents
-This repository contains code for the paper [V-Doc : Visual questions answers with Documents](https://arxiv.org/pdf/2205.13724.pdf). The demo videos can be accessed by this [link](https://drive.google.com/file/d/1Ztp9LBcrEcJA3NlbFWn1RfNyfwt8Y6Qk/view).
+This repository contains code for the paper [V-Doc : Visual questions answers with Documents](https://arxiv.org/pdf/2205.13724.pdf). The videos can be accessed by this [link](https://drive.google.com/file/d/1Ztp9LBcrEcJA3NlbFWn1RfNyfwt8Y6Qk/view).
 
 <h4 align="center">
   <b>Ding, Y.*, Huang, Z.*, Wang, R., Zhang, Y., Chen, X., Ma, Y., Chung, H., & Han, C. (CVPR 2022) <br/><a href="https://arxiv.org/pdf/2205.13724.pdf">V-Doc : Visual questions answers with Documents</a><br/></b></span>
