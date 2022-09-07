@@ -1,0 +1,10 @@
+{
+  "thing": ["part", "object"],
+  "child_relation": ["subtitle","subsection"],
+  "summary": ["main idea", "content", "key point"],
+  "type": ["document","PDF"],
+  "left": ["left of", "to the left of", "on the left side of"],
+  "right": ["right of", "to the right of", "on the right side of"],
+  "above": ["above"],
+  "below": ["below"]
+}
